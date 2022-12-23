@@ -1,0 +1,8 @@
+prefix=/home/zarquon/Project/SwarmDrone/devel
+
+Name: gazebo_sitl
+Description: Description of gazebo_sitl
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib -lgazebo_sitl
+Requires: 

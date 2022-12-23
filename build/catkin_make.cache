@@ -1,0 +1,2 @@
+gazebo_sitl
+-DCATKIN_DEVEL_PREFIX=/home/zarquon/Project/SwarmDrone/devel -DCMAKE_INSTALL_PREFIX=/home/zarquon/Project/SwarmDrone/install -G Unix Makefiles
